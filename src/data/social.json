@@ -25,14 +25,14 @@
       "url": "https://github.com/chicco182/"
     },
     {
+      "title": "Donate",
+      "icon": "fa-paypal",
+      "url": "https://paypal.me/tracciaprezzo"
+    },
+    {
       "title": "Patreon",
       "icon": "fa-patreon",
       "url": "https://patreon.com/stefanovalentini"
-    },
-    {
-      "title": "Donate",
-      "icon": "fa-piggy-bank",
-      "url": "https://paypal.me/tracciaprezzo"
     }
   ]
 }
