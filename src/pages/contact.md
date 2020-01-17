@@ -1,6 +1,6 @@
 ---
 title: Contattami
-subtitle: 'USA IL SEGUENTE MODULO PER PROPORRE IDEE, COLLABORAZIONI OPPURE SUGGERIMENTI.'
+subtitle: ''
 img_path: images/contact.jpg
 menus:
   main:
