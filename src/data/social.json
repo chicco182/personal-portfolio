@@ -31,7 +31,7 @@
     },
     {
       "title": "Donate",
-      "icon": "fa-donate",
+      "icon": "fas fa-donate",
       "url": "https://paypal.me/tracciaprezzo"
     }
   ]
