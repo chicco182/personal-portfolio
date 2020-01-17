@@ -1,20 +1,17 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+subtitle: Un pò di me e delle mie passioni
+img_path: ''
 menus:
   main:
-    title: About
+    title: About Me
     weight: 2
 template: page
 ---
+**Ingegnere informatico** amante e discretamente ferrato su tutto quello che riguarda tecnologia, innovazione e web.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Nel tempo libero mi dedico anima e corpo a tenermi sempre aggiornato su tutti i miei interessi e ad ampliare sempre di piu' le mie conoscenze.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+> *L'informatica è la mia passione, perché mai si esaurisce la sua evoluzione e non ha confini.*
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+*Grazie per esserti interessato a me!*
