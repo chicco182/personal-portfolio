@@ -28,6 +28,11 @@
       "title": "Patreon",
       "icon": "fa-patreon",
       "url": "https://patreon.com/stefanovalentini"
+    },
+    {
+      "title": "Donate",
+      "icon": "fa-donate",
+      "url": "https://paypal.me/tracciaprezzo"
     }
   ]
 }
