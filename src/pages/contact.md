@@ -1,11 +1,11 @@
 ---
-title: Get in Touch
+title: Contattami
+subtitle: 'USA IL SEGUENTE MODULO PER PROPORRE IDEE, COLLABORAZIONI OPPURE SUGGERIMENTI.'
 img_path: images/contact.jpg
 menus:
   main:
-    title: Contact
+    title: Contattami
     weight: 6
 template: contact
 ---
-
-To get in touch fill the form below.
+### USA IL SEGUENTE MODULO PER PROPORRE IDEE, COLLABORAZIONI OPPURE SUGGERIMENTI.
